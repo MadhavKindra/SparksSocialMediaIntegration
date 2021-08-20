@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168023360273",
+    "project_id": "sparks-social-media-701ee",
+    "storage_bucket": "sparks-social-media-701ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168023360273:android:783d3db928f6e93a82c2b0",
+        "android_client_info": {
+          "package_name": "madhav.mycompany.sparkssocialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168023360273-u3tra5hljk2i2pl2uv6bsdtr8pu0sson.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWgQYXsAQqthy2A_l56zPQ-qrTv_W5cEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168023360273-u3tra5hljk2i2pl2uv6bsdtr8pu0sson.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
